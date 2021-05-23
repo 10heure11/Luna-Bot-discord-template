@@ -10,7 +10,7 @@ const config = require('./config.json')
 
 
 
-mongoose.connect("mongodb+srv://mydb:LoLo97234@cluster0.n19fg.mongodb.net/LunaBot", {
+mongoose.connect("mongodb+srv://mydb:LoLo97234@cluster0.n19fg.mongodb.net/ALLUSER", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(console.log("connected to mongoDB"))
