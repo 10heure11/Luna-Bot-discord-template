@@ -3,7 +3,7 @@
 
 made by me !!
 
-debug console :
+ console.log :
 `git clone https://github.com/10heure11/Luna-Bot-discord-template`
 
 `npm i `
